@@ -26,11 +26,11 @@ Use the table below to key in your name and programming language used to generat
 |  Garba Isah  | Arduino | Window OS    |
 |  Halima Usman | Arduino | Window OS |
 |  Aishatu Umar Mohammed |  Arduino | Window OS |
-|  Murtala Bindawa |  Arduino | Window OS |
+|  Murtala Bindawa Isah |  Arduino | Window OS |
 
 
 # Group Photo
-![Photo](   .png)
+![Photo](https://github.com/babasaraki/Open-Labware/blob/main/Group%20photo.jpeg)
 
 
 Open-Labware materials
