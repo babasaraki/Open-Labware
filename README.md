@@ -25,11 +25,15 @@ Use the table below to key in your name and programming language used to generat
 |      Name     |  Language  | OS           |
 |:-------------:|:----------:|:------------:|
 | Umar Ahmad | Arduino    |  MacOS    |
-| Adam Saleh Adam Arduino | Window OS |
+| Adam Saleh Adam | Arduino | Window OS |
 | Adamu Abdullahi| Arduino | Window OS |
 |  Garba Isah  | Arduino | Window OS    |
 |  Halima Usman | Arduino | Window OS |
 |  Aminu Abu  |  Arduino | Window OS |
+
+# Group Photo
+![Photo](   .png)
+
 
 Open-Labware materials
 ========================
