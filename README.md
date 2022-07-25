@@ -2,11 +2,7 @@
 
 ## About
 
-This repository collects tutorials, slides, and code developed and maintained by the Open Labware Group.
-
-Prior knowledge required: None, but previous experience with computers and repairing things is a plus. Without tools, there is no science. Reagents, computers, and especially research equipment are paramount to the collection of data that allows us to see nature in its finest details. During the workshop we will build selected equipment, using open source technologies. 
-
-This will serve as an intro to the Open Science world and will empower participants with the knowledge needed to create their own solutions for research needs at their home institutions. More details on this approach can be seen here and here. Participants will leave the project with:
+This repository collects tutorials, slides, and code developed and maintained by the Open Labware Group, a special group that aim to build equipment using open source technologies. This group is based on the grouping made during BioRTC Summer School Training held at College of Medical Sciences, Yobe State University, Damaturu, Nigeria. Details abou the group. We were introduced into the world of Open Science and are empowered with the knowledge needed to create our own solutions for research needs inour local institutions. Details of the learning experience could also be found here(https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000014) and here([https://creativecommons.org/licenses/by/4.0](https://osf.io/preprints/socarxiv/pyh2r/)). Participants will leave the project with:
 
 A general understanding of how 3D printers work and how to design parts for them.
 How to put together electronic circuits to create scientific equipment
@@ -29,7 +25,9 @@ Use the table below to key in your name and programming language used to generat
 | Adamu Abdullahi| Arduino | Window OS |
 |  Garba Isah  | Arduino | Window OS    |
 |  Halima Usman | Arduino | Window OS |
-|  Aminu Abu  |  Arduino | Window OS |
+|  Aishatu Umar Mohammed |  Arduino | Window OS |
+|  Murtala Bindawa |  Arduino | Window OS |
+
 
 # Group Photo
 ![Photo](   .png)
