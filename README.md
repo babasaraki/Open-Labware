@@ -1,7 +1,6 @@
 # Open-Labware
 
-Open-Labware materials
-========================
+## About
 
 This repository collects tutorials, slides, and code developed and maintained by the Open Labware Group.
 
@@ -12,6 +11,28 @@ This will serve as an intro to the Open Science world and will empower participa
 A general understanding of how 3D printers work and how to design parts for them.
 How to put together electronic circuits to create scientific equipment
 How to leverage open source knowledge to develop their own tools.
+
+
+## Team Members
+
+The group that contributed to this repo and who built the open source hardware using 3D printers are listed in the [Contributors list](CONTRIBUTORS.yaml),
+
+
+## Programming language
+
+Use the table below to key in your name and programming language used to generate your script. If there are dependencies (in the language used), please kindly mention it in the table too. 
+
+|      Name     |  Language  | OS           |
+|:-------------:|:----------:|:------------:|
+| Umar Ahmad | Arduino    |  MacOS    |
+| Adam Saleh Adam Arduino | Window OS |
+| Adamu Abdullahi| Arduino | Window OS |
+|  Garba Isah  | Arduino | Window OS    |
+|  Halima Usman | Arduino | Window OS |
+|  Aminu Abu  |  Arduino | Window OS |
+
+Open-Labware materials
+========================
 
 
 
