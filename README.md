@@ -27,7 +27,7 @@ The group that contributed to this repo and who built the open source hardware u
 
 ## Programming language
 
-Use the table below to key in your name and programming language used to generate your script. If there are dependencies (in the language used), please kindly mention it in the table too. 
+Use the table below to key in your name and programming language used during the electronics circuits class. If there are dependencies (in the language used), please kindly mention it in the table too. 
 
 |      Name     |  Language  | OS           |
 |:-------------:|:----------:|:------------:|
