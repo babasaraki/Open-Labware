@@ -10,7 +10,8 @@ This repository collects tutorials, slides, and code developed and maintained by
 
 The content of the tutorials and website are licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0).
 
-The code behind the infrastructure is licensed under the [MIT License](LICENSE.md)
+This repo is free to use and re-use, under under the [MIT License](LICENSE.md)
+
 
 # Contribution
 
