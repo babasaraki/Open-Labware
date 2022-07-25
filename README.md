@@ -15,7 +15,9 @@ Andre Maia Chagas is an open science and open source hardware experts with a bac
 
 Andre currently works at the [Department of Neurosciences](https://www.sussex.ac.uk/research/centres/sussex-neuroscience/) in the University of Sussex, where he develop equipment to support research labs. For more details on those projects check the [Open Sussex Neuroscience page](https://sussex-neuroscience.github.io)
 
-On my spare time I offer consultancy services around open science hardware through Prometheus Science. If you need to replicate a methods paper, or if you’d like something custom built for your lab, get in touch!
+On his spare time he offer consultancy services around open science hardware through [Prometheus Science](https://prometheus-science.com). If you need to replicate a methods paper, or if you’d like something custom built for your lab, get in touch!
+
+If you would like to get in touch, drop me a line using the [contact form](https://amchagas.github.io/#contact) at the end of this page!
 
 
 ## Team Members
@@ -42,7 +44,7 @@ Use the table below to key in your name and programming language used to generat
 ![Photo](https://github.com/babasaraki/Open-Labware/blob/main/Group%20photo.jpeg)
 
 
-Open-Labware materials
+Open-Labware Built
 ========================
 
 
