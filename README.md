@@ -8,6 +8,16 @@ This repository collects tutorials, slides, and code developed and maintained by
 - How to put together electronic circuits to create scientific equipment
 - How to leverage open source knowledge to develop our own tools.
 
+## Instructor
+
+Andre Maia Chagas is an open science and open source hardware experts with a background in Neurosciences  who have been developing affordable open science hardware and teaching others to do so via various workshops, talks and outreach events. He started [Open Neuroscience](https://open-neuroscience.com), and volunteer at [Trend in Africa](https://trendinafrica.org) as an open source adviser and by organizing and running Open Labware workshops.
+
+Andre currently works at the [Department of Neurosciences](https://www.sussex.ac.uk/research/centres/sussex-neuroscience/) in the University of Sussex, where he develop equipment to support research labs. For more details on those projects check the [Open Sussex Neuroscience page](https://sussex-neuroscience.github.io)
+
+On my spare time I offer consultancy services around open science hardware through Prometheus Science. If you need to replicate a methods paper, or if you’d like something custom built for your lab, get in touch!
+
+
+
 
 ## Team Members
 
