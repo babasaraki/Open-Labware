@@ -14,7 +14,7 @@ The code behind the infrastructure is licensed under the [MIT License](LICENSE.m
 
 # Contribution
 
-Contributions, suggestions, and bug reports are extremely welcome - please [create an issue](issues/new).
+Contributions, suggestions, and bug reports are extremely welcome - please [create an issue](https://github.com/babasaraki/Open-Labware/issues/new).
 
 
 # Acknowledgment and Funding
