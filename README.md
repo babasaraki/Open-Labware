@@ -2,7 +2,7 @@
 
 ## About
 
-This repository collects tutorials, slides, and code developed and maintained by the Open Labware Group, a special group that aim to build equipment using open source technologies. This group is based on the grouping made during BioRTC Summer School Training held at College of Medical Sciences, Yobe State University, Damaturu, Nigeria. Details abou the group. We were introduced into the world of Open Science and are empowered with the knowledge needed to create our own solutions for research needs inour local institutions. Details of the learning experience could also be found [here](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000014) and [here([https://creativecommons.org/licenses/by/4.0](https://osf.io/preprints/socarxiv/pyh2r/)). Participants will leave the project with:
+This repository collects tutorials, slides, and code developed and maintained by the Open Labware Group, a special group that aim to build equipment using open source technologies. This group is based on the grouping made during BioRTC Summer School Training held at College of Medical Sciences, Yobe State University, Damaturu, Nigeria. Details abou the group. We were introduced into the world of Open Science and are empowered with the knowledge needed to create our own solutions for research needs inour local institutions. Details of the learning experience could also be found [here](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000014) and [here](https://osf.io/preprints/socarxiv/pyh2r/). Participants will leave the project with:
 
 A general understanding of how 3D printers work and how to design parts for them.
 How to put together electronic circuits to create scientific equipment
